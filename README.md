@@ -7,6 +7,8 @@ The purpose is **educational only** — to help developers, students, and IT tea
 
 ---
 
+<img width="843" height="628" alt="Image" src="https://github.com/user-attachments/assets/a8f8a09a-6ca5-43fa-9930-35c6703f8033" />
+
 ## 🔎 How such attacks work (Educational Explanation)
 
 Attackers often exploit Wi-Fi networks by combining several techniques:  
