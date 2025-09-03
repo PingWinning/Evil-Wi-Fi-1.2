@@ -49,7 +49,7 @@ It is a **simulation only**, meant for **training and awareness purposes**.
 ## 📌 Roadmap / Community Note
 
 This is a **personal project**, and development is ongoing in my free time.  
-If the community is interested in contributing — whether by improving the UI, adding JS assets, or expanding documentation — contributions are welcome.  
+If the community is interested in contributing, whether by improving the UI, adding JS assets, or expanding documentation, contributions are welcome.  
 
 I’ll continue to build on this, but progress may be gradual.  
 
